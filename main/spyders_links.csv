@@ -1,0 +1,2 @@
+site_name,website,load,XPATH_passed,XPATH_break,string_blocker,time_sleep,XPATH_element
+"MCAFEE_1","https://www.mcafee.com/blogs/mobile-security/","load_next","/html/body/div[2]/article/div/div/div[2]/div[4]/div/div/ul/li[last()]/a","/html/body/div[2]/article/div/div/div[2]/div[4]/div/div/ul/li[last()]/a","35",0,"/html/body/div[2]/article/div/div/div[2]/div[3]/div/div[2]/h5/a"
