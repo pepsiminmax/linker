@@ -1,20 +1,5 @@
 # linker
 
-### WIP
+Linker allows users to collect structured dataset from open-source without having to worry about pagination. 
 
-TODO:
-1. sort input - currently via hardcoded df
-2. fix correct export
-3. change global to class 
-4. sort test input
-
-``` python
-# download href links from website database
-
-# input >>
-
-
-# output >>
-
-
-```
+To set up, clone the repo to your local and see "how_to_use.py" on code usage.
